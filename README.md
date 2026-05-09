@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LongFei32
 - 👀 I’m interested in math,statistics,computer scinece,minecraft.
-- 🌱 I’m currently learning ML,DL
-- 💞️ I’m looking to collaborate with friends who have interest in biostatis
+- 🌱 I’m currently learning ML
+- 💞️ I’m looking to collaborate with friends who have interest in game-developing.
 - 📫 How to reach me? My emial is slh13686020647@163.com
 - 😄 Pronouns: him
 - ⚡ Fun fact: 
