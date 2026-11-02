@@ -2,7 +2,7 @@
 - 👀 I’m interested in math,statistics,computer scinece,minecraft.
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate with friends who have interest in game-developing.
-- 📫 How to reach me? My emial is slh13686020647@163.com
+- 📫 How to reach me? My emial is slh13686020647@163.com.This is my website:https://longfei32.github.io/
 - 😄 Pronouns: him
 - ⚡ Fun fact: 
 
